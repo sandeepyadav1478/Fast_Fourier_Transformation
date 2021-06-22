@@ -1,2 +1,21 @@
-# Fast_Fourier_Transformation
-The FFT is an optimized algorithm for the implementation of the "Discrete Fourier Transformation" (DFT). A signal is sampled over a period of time and divided into its frequency components. These components are single sinusoidal oscillations at distinct frequencies each with their own amplitude and phase. This transformation is illustrated in the following diagram. Over the time period measured, the signal contains 3 distinct dominant frequencies. 
+# FourierTransformDrawing
+
+requirements :  1) Numpy (pip install numpy)
+                2) cv2 (pip install opencv-python)
+                3) json
+                4) tqdm
+                5) pygame
+                6) keyboard
+                7) json
+                8) Pillow
+                9) opencv-python
+                
+help:
+  1) first recoord coordinates with "RecordCoordinates.py"
+      put referance imgae in file location and name it "sample.jpg" or you can change file name in code
+      Left click and new location(i.e motion) records point
+      Undo with "X" for single point undo or "Z" for fast multiple points undo
+      "S" is for save
+  2) You can change acquracy by changing aquracy variable(0 to 100)
+  
+  Thansk for checking
