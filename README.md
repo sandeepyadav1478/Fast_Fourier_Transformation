@@ -1,5 +1,7 @@
 # FourierTransformDrawing
 
+ ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/template.png)
+ 
 requirements :  1) Numpy (pip install numpy)
                 2) cv2 (pip install opencv-python)
                 3) json
