@@ -14,15 +14,22 @@
                 9) opencv-python
                 
                 
-## Main.py GUI
+## Main.py GUI :
 ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(134).png)
+
+## Loading co-ordinations for ARM design :
+![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(136).png)
                 
-help:
+## Help :
   1) first recoord coordinates with "RecordCoordinates.py"
       put referance imgae in file location and name it "sample.jpg" or you can change file name in code
       Left click and new location(i.e motion) records point
-      Undo with "X" for single point undo or "Z" for fast multiple points undo
-      "S" is for save
+      Undo with "X" for single point undo or "Z" for redo
+      "S" is for save and "R" to stop rotation
+      
   2) You can change acquracy by changing aquracy variable(0 to 100)
+
+## Example Print :
+![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(138).png?raw=true)
   
-  Thansk for checking
+  ### Thanks for checking
