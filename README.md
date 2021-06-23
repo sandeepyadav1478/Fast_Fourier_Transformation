@@ -1,4 +1,4 @@
-# FastFourierTransformX
+# Fast Fourier TransformX
 
  ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/template.png)
  
