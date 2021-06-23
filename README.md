@@ -2,7 +2,8 @@
 
  ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/template.png)
  
-requirements :  1) Numpy (pip install numpy)
+## Requirements :  
+                1) Numpy (pip install numpy)
                 2) cv2 (pip install opencv-python)
                 3) json
                 4) tqdm
@@ -11,6 +12,10 @@ requirements :  1) Numpy (pip install numpy)
                 7) json
                 8) Pillow
                 9) opencv-python
+                
+                
+## Main.py GUI
+![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(134).png)
                 
 help:
   1) first recoord coordinates with "RecordCoordinates.py"
