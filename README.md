@@ -21,13 +21,18 @@
 ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(136).png)
                 
 ## Help :
-  1) first recoord coordinates with "RecordCoordinates.py"
-      put referance imgae in file location and name it "sample.jpg" or you can change file name in code
-      Left click and new location(i.e motion) records point
-      Undo with "X" for single point undo or "Z" for redo
-      "S" is for save and "R" to stop rotation
-      
-  2) You can change acquracy by changing aquracy variable(0 to 100)
+  0) [Optional] You can change in 'user editable area' in main.py file
+  
+  1) first recoord coordinates with "Draw" button or load image with "Image" button.
+  2) Put reference image in file location and if file exists then, It will detect edge of objects in image and return cords.
+  3) Or Draw something on board by dragging mouse.
+  4) You can Undo with "X" for single point undo or "Z" for redo , "S" is for save and "R" to stop rotation
+
+  5) After input we have to arrange cords in pattern for drawing, Also have to remove repeated cords and minimize large size.
+     So select any "Keep" or "Remove" and type needed percentage, press ">" button.
+  6) *You can undo cords alterations using "Undo" button. It only works for once.*
+     
+  7) Lastly press "fftx" button for arms draw.
 
 ## Example Print :
 ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(138).png?raw=true)
