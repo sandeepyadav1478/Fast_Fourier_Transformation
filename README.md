@@ -14,8 +14,12 @@
                 9) opencv-python
                 
                 
-## Main.py GUI :
+## Main GUI :
 ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(134).png)
+
+Here,
+     Int. means Integral 
+
 
 ## Loading co-ordinations for ARM design :
 ![GitHub Logo](https://github.com/sandeepyadav1478/Fast_Fourier_Transformation/blob/main/dist/Screenshot%20(136).png)
